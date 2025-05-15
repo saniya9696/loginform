@@ -57,3 +57,10 @@ body {
   background: linear-gradient(163deg, #00642f, #13034b);
   color: rgb(0, 255, 200);
 }
+@media only screen and (max-width: 400px) {
+  body {
+    background-color: lightblue;
+
+  }
+}
+
